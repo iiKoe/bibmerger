@@ -1,4 +1,4 @@
-#bibmerger
+# bibmerger
 
 Small python script to
 1. remove duplicate bib entries with the same ID (automatic)
